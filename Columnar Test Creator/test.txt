@@ -1,0 +1,11 @@
+When you try your best but you don't succeed, you end up like Coldplay idk man.
+/
+Howard Tang
+@
+This is the second quote, I might become famous who knows. Let's make it a longer one. Just a little bit more. That's good.
+/
+Howard Tang
+@
+Let's make this last quote super duper duper long just so we can see how the program reacts to it. Is each row one more newline than the previous so we need to change the number for mod? We'll see now.
+/
+Howard Tang
